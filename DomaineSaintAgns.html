@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./DomaineSaintAgns.module.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bebas Neue:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,200;0,600;1,300;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,300;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="domaine-saint-agns">
+      <div class="domaine-saint-agns-child"></div>
+      <img class="shadow-icon12" alt="" src="./public/shadow@2x.png" />
+
+      <img
+        class="domaine-saint-agns-item"
+        alt=""
+        src="./public/ellipse-29.svg"
+      />
+
+      <div class="domaine-saint-agns-inner" id="rectangle1"></div>
+      <div class="retour-aux-choix12"onclick="window.history.go(-1); return false;"id="retourvins">Retour aux choix des vins</div>
+      }
+      <div class="domaine-saint-agns-child1"></div>
+      <div class="retour-menu12" id="retourMenuText"onclick="location.href='Accueil3.html';"style="cursor:pointer;">Retour menu</div>
+      <i class="des-tanins-soyeux-container">
+        <p class="des-tanins-soyeux">
+          Des tanins soyeux sur un fond épicé et empli de fraîcheur et des
+          arômes de garrigue
+        </p>
+        <p class="des-tanins-soyeux">&nbsp;</p>
+        <p class="blank-line4">&nbsp;</p>
+      </i>
+      <i class="c12">13,5°C</i>
+      <i class="languedoc2">Languedoc</i>
+      <div class="domaine-de-lheritage">domaine de l’Héritage du pic|2021</div>
+      <img class="subtract-icon" alt="" src="./public/subtract@2x.png" />
+
+      <div class="domaine-saint-agns-child2"></div>
+      <div class="biodynamie24">Biodynamie</div>
+      <div class="cuve-sainte-agnes">Cuvée Sainte Agnes</div>
+      <img
+        class="ermitage-du-pic-saint-loup-sai-icon2"
+        alt=""
+        src="./public/ermitagedupicsaintloupsainteagnesrouge-1@2x.png"
+      />
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./Bavette.html";
+        });
+      }
+      
+      var retourMenuText = document.getElementById("retourMenuText");
+      if (retourMenuText) {
+        retourMenuText.addEventListener("click", function (e) {
+          window.location.href = "./Accueil3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

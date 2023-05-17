@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./ChateauCombelLaSerre.module.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bebas Neue:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,200;0,600;1,300;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,300;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="chateau-combel-la-serre">
+      <div class="chateau-combel-la-serre-child"></div>
+      <img class="shadow-icon24" alt="" src="./public/shadow@2x.png" />
+
+      <i class="alerte-aux-fruits-container">
+        <p class="alerte-aux-fruits">
+          Alerte aux fruits ! Une cerise noire en totem c’est un vin riche et
+          peu tannique. Un Cahors pour tous
+        </p>
+        <p class="blank-line15">&nbsp;</p>
+      </i>
+      <i class="c24">12,5 °C</i>
+      <img
+        class="chateau-combel-la-serre-item"
+        alt=""
+        src="./public/ellipse-29.svg"
+      />
+
+      <div class="chateau-combel-la-serre-inner" id="rectangle1"></div>
+      <div class="retour-aux-choix24"onclick="window.history.go(-1); return false;"id="retourvins">Retour aux choix des vins</div>
+      }
+      <div class="chateau-combel-la-serre-child1"></div>
+      <div class="retour-menu24" id="retourMenuText"onclick="location.href='Accueil3.html';"style="cursor:pointer;">Retour menu</div>
+      <div class="domaine-combel-la-container1">
+        <span class="domaine-combel-la-container2">
+          <p class="alerte-aux-fruits">Domaine Combel la Serre|2022</p>
+          <p class="cuve-carbo">Cuvée Carbo</p>
+        </span>
+      </div>
+      <i class="cahors1">Cahors</i>
+      <img
+        class="bouteille-sud-ouest-chateau-co-icon1"
+        alt=""
+        src="./public/bouteillesudouestchateaucombellaserrecuveecarbovinrouge2021-1@2x.png"
+      />
+
+      <div class="chateau-combel-la-serre-child2"></div>
+      <div class="biologique21">Biologique</div>
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./Parmentier.html";
+        });
+      }
+      
+      var retourMenuText = document.getElementById("retourMenuText");
+      if (retourMenuText) {
+        retourMenuText.addEventListener("click", function (e) {
+          window.location.href = "./Accueil3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

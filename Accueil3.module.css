@@ -1,0 +1,222 @@
+.en-ce-moment {
+  position: absolute;
+  top: 57px;
+  left: 25px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-antiquewhite);
+  display: inline-block;
+  width: 346px;
+  height: 51px;
+}
+.group-child {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-antiquewhite);
+}
+.group-child,
+.rectangle-wrapper,
+.thon-mi-cuit {
+  position: absolute;
+  top: calc(50% - 57.05px);
+  left: calc(50% - 64.52px);
+  width: 129.04px;
+  height: 114.11px;
+}
+.thon-mi-cuit {
+  top: calc(50% - 33.71px);
+  left: calc(50% - 59.67px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120.3px;
+  height: 70.02px;
+}
+.group-parent {
+  position: absolute;
+  top: calc(50% - 427.5px);
+  left: calc(50% - 134.12px);
+  width: 129.04px;
+  height: 114.11px;
+  cursor: pointer;
+}
+.group-item {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-antiquewhite);
+}
+.group-item,
+.rectangle-container,
+.travers-de-porc {
+  position: absolute;
+  top: calc(50% - 57.05px);
+  left: calc(50% - 64.99px);
+  width: 129.97px;
+  height: 114.11px;
+}
+.travers-de-porc {
+  top: calc(50% - 33.71px);
+  left: calc(50% - 60.1px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 121.18px;
+  height: 70.02px;
+}
+.group-container {
+  position: absolute;
+  top: calc(50% - 427.5px);
+  left: calc(50% + 18.91px);
+  width: 129.97px;
+  height: 114.11px;
+  cursor: pointer;
+}
+.group-inner {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-antiquewhite);
+}
+.group-inner,
+.rectangle-frame {
+  position: absolute;
+  top: calc(50% - 58.1px);
+  left: calc(50% - 63.12px);
+  width: 126.23px;
+  height: 116.21px;
+}
+.salade-de-poulet {
+  position: absolute;
+  top: calc(50% - 34.33px);
+  left: calc(50% - 58.37px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117.69px;
+  height: 71.31px;
+}
+.group-div,
+.group-parent1,
+.group-parent2,
+.group-parent3 {
+  position: absolute;
+  top: calc(50% - 279.5px);
+  left: calc(50% - 135.2px);
+  width: 126.23px;
+  height: 116.21px;
+  cursor: pointer;
+}
+.group-parent1,
+.group-parent2,
+.group-parent3 {
+  left: calc(50% + 18.8px);
+}
+.group-parent2,
+.group-parent3 {
+  top: calc(50% - 129.5px);
+  left: calc(50% - 135.2px);
+}
+.group-parent3 {
+  top: calc(50% - 128.5px);
+  left: calc(50% + 14.8px);
+}
+.group-parent4,
+.group-parent5,
+.group-parent6,
+.group-parent7,
+.group-parent8 {
+  position: absolute;
+  top: calc(50% + 20.5px);
+  left: calc(50% - 135.2px);
+  width: 126.23px;
+  height: 116.21px;
+  cursor: pointer;
+}
+.group-parent5,
+.group-parent6,
+.group-parent7,
+.group-parent8 {
+  left: calc(50% + 12.8px);
+}
+.group-parent6,
+.group-parent7,
+.group-parent8 {
+  top: calc(50% + 170.5px);
+  left: calc(50% - 139.2px);
+}
+.group-parent7,
+.group-parent8 {
+  top: calc(50% + 171.5px);
+  left: calc(50% + 8.8px);
+}
+.group-parent8 {
+  top: calc(50% + 322.5px);
+  left: calc(50% - 65.2px);
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 2.77%;
+  width: 7.95%;
+  top: 94.29%;
+  right: 37.44%;
+  bottom: 2.94%;
+  left: 54.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2 {
+  height: 2.34%;
+  width: 7.18%;
+  top: 94.46%;
+  right: 47.18%;
+  bottom: 3.2%;
+  left: 45.64%;
+}
+.vector-icon2 {
+  height: 2.77%;
+  width: 7.95%;
+  top: 94.29%;
+  right: 56.41%;
+  bottom: 2.94%;
+  left: 35.64%;
+}
+.t,
+.t1,
+.t2 {
+  position: absolute;
+  text-decoration: underline;
+  display: inline-block;
+}
+.t {
+  top: 1091px;
+  left: 139px;
+  font-size: var(--font-size-17xl);
+  color: transparent;
+  width: 31px;
+  height: 30px;
+}
+.t1,
+.t2 {
+  top: 1090px;
+  left: 177px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  width: 29px;
+  height: 31px;
+}
+.t2 {
+  top: 1091px;
+  left: 213px;
+  width: 33px;
+  height: 30px;
+}
+.accueil-3 {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 1155px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred);
+  font-family: var(--font-bebas-neue);
+}

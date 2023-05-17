@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Accueil2.module.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bebas Neue:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,200;0,600;1,300;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,300;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="accueil-2">
+      <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+      <textarea class="accueil-2-child"> </textarea>
+      <div class="dcouvrir-notre-menu">
+        Découvrir notre menu accords mets et vins
+      </div>
+      <div id="rectangle">
+        <div class="accueil-2-item"></div>
+        <div class="le-menu">Le menu</div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./Accueil3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

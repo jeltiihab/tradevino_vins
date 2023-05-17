@@ -1,0 +1,528 @@
+.la-slection-tradevino7 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.pour-la-bavette {
+  margin: 0;
+}
+.la-slection-tradevino-container7 {
+  position: absolute;
+  top: 48px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 315px;
+  height: 78px;
+}
+.bavette-child {
+  position: absolute;
+  top: 652px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.bavette-item,
+.div33 {
+  position: absolute;
+  top: 636px;
+  left: 138px;
+  width: 59px;
+  height: 59px;
+}
+.div33 {
+  top: 651px;
+  left: 145px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.copy-bouteille243,
+.copy-bouteille244 {
+  position: absolute;
+  top: 17.36px;
+  left: 0.1px;
+  transform: rotate(-50.76deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille244 {
+  top: 13.04px;
+  left: 3.41px;
+  transform: rotate(-42.89deg);
+}
+.copy-bouteille245,
+.copy-bouteille246,
+.copy-bouteille247 {
+  position: absolute;
+  top: 9.27px;
+  left: 7.21px;
+  transform: rotate(-35.13deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille246,
+.copy-bouteille247 {
+  top: 6.26px;
+  left: 11.32px;
+  transform: rotate(-29.18deg);
+}
+.copy-bouteille247 {
+  top: 4.2px;
+  left: 14.81px;
+  transform: rotate(-23.28deg);
+}
+.copy-bouteille248,
+.copy-bouteille249,
+.copy-bouteille250 {
+  position: absolute;
+  top: 2.72px;
+  left: 18.14px;
+  transform: rotate(-19.52deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille249,
+.copy-bouteille250 {
+  top: 1.61px;
+  left: 20.97px;
+  transform: rotate(-13.69deg);
+}
+.copy-bouteille250 {
+  top: 0.56px;
+  left: 24.86px;
+  transform: rotate(-7.85deg);
+}
+.copy-bouteille-parent25,
+.copy-bouteille251 {
+  position: absolute;
+  top: -0.07px;
+  left: 28.79px;
+  transform: rotate(-2.21deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent25 {
+  top: 626.19px;
+  left: 135px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(-0.34deg);
+  font-size: var(--font-size-5xs);
+}
+.group-child51,
+.group-child52 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+  width: 133px;
+  height: 44px;
+}
+.group-child51 {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-antiquewhite);
+}
+.group-child52 {
+  top: 5px;
+  left: 0;
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+}
+.je-dcouvre21,
+.rectangle-parent20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 49px;
+}
+.je-dcouvre21 {
+  top: 9px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 27px;
+}
+.group-parent30,
+.vector-icon10 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-parent30 {
+  top: 774px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.vector-icon10 {
+  height: 3.32%;
+  width: 7.18%;
+  top: 8.18%;
+  right: 86.67%;
+  bottom: 88.51%;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-31-icon1 {
+  position: absolute;
+  top: 603px;
+  left: 54px;
+  border-radius: var(--br-181xl);
+  width: 112px;
+  height: 224px;
+  object-fit: cover;
+}
+.ferme-des-7-container3 {
+  top: 667px;
+  height: 37px;
+}
+.ferme-des-7-container3,
+.halo-sur-le2,
+.saint-joseph2 {
+  position: absolute;
+  left: 197px;
+  display: inline-block;
+  width: 194px;
+}
+.halo-sur-le2 {
+  top: 721px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 37px;
+}
+.saint-joseph2 {
+  top: 744px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.boutdzan2,
+.ctes-du-rhne4,
+.domaine-mas-de-container6 {
+  position: absolute;
+  top: 184.8px;
+  left: 195px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.boutdzan2,
+.ctes-du-rhne4 {
+  top: 240.8px;
+  left: 196px;
+  font-size: var(--font-size-sm);
+}
+.ctes-du-rhne4 {
+  top: 269.8px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.bavette-inner {
+  position: absolute;
+  top: 175.8px;
+  left: 23px;
+  width: 171px;
+  height: 171px;
+}
+.bavette-child1,
+.div34 {
+  position: absolute;
+  top: 167.8px;
+  left: 144px;
+  width: 59px;
+  height: 59px;
+}
+.div34 {
+  top: 184.8px;
+  left: 147px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 54px;
+  height: 41px;
+}
+.copy-bouteille252,
+.copy-bouteille253 {
+  position: absolute;
+  top: 17.35px;
+  left: -0.78px;
+  transform: rotate(-47.86deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille253 {
+  top: 13.2px;
+  left: 2.74px;
+  transform: rotate(-39.98deg);
+}
+.copy-bouteille254,
+.copy-bouteille255,
+.copy-bouteille256 {
+  position: absolute;
+  top: 9.62px;
+  left: 6.74px;
+  transform: rotate(-32.22deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille255,
+.copy-bouteille256 {
+  top: 6.83px;
+  left: 10.98px;
+  transform: rotate(-26.27deg);
+}
+.copy-bouteille256 {
+  top: 4.94px;
+  left: 14.58px;
+  transform: rotate(-20.38deg);
+}
+.copy-bouteille257,
+.copy-bouteille258,
+.copy-bouteille259 {
+  position: absolute;
+  top: 3.64px;
+  left: 17.97px;
+  transform: rotate(-16.61deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille258,
+.copy-bouteille259 {
+  top: 2.68px;
+  left: 20.86px;
+  transform: rotate(-10.78deg);
+}
+.copy-bouteille259 {
+  top: 1.82px;
+  left: 24.8px;
+  transform: rotate(-4.95deg);
+}
+.copy-bouteille-parent26,
+.copy-bouteille260 {
+  position: absolute;
+  top: 1.39px;
+  left: 28.76px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent26 {
+  top: 156.29px;
+  left: 142.06px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  font-size: var(--font-size-5xs);
+}
+.group-parent31 {
+  position: absolute;
+  top: 297.8px;
+  left: 221px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.bavette-child2 {
+  position: absolute;
+  top: 240.8px;
+  left: 153px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie14 {
+  position: absolute;
+  top: 251.8px;
+  left: 151px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.image-removebg-preview-2-icon4 {
+  position: absolute;
+  top: 153.8px;
+  left: 78px;
+  border-radius: var(--br-7xl);
+  width: 63px;
+  height: 199.9px;
+  object-fit: cover;
+}
+.bavette-child3,
+.div35 {
+  position: absolute;
+  top: 147px;
+  left: 175px;
+  width: 49px;
+  height: 49px;
+}
+.div35 {
+  top: 158px;
+  left: 177px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.domaine-heritage-du-container1,
+.languedoc1 {
+  position: absolute;
+  top: 403px;
+  left: 183px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.languedoc1 {
+  top: 494px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.bavette-child4 {
+  position: absolute;
+  top: 404px;
+  left: 12px;
+  width: 171px;
+  height: 171px;
+}
+.bavette-child5,
+.div36 {
+  position: absolute;
+  top: 388px;
+  left: 126px;
+  width: 59px;
+  height: 59px;
+}
+.div36 {
+  top: 403px;
+  left: 133px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.copy-bouteille-parent28 {
+  position: absolute;
+  top: 378.19px;
+  left: 123px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(-0.34deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-5xs);
+}
+.group-parent32 {
+  position: absolute;
+  top: 521px;
+  left: 211px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.bavette-child6 {
+  position: absolute;
+  top: 476px;
+  left: 141px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 36px;
+}
+.biologique11 {
+  position: absolute;
+  top: 486px;
+  left: 141px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 16px;
+}
+.saint-agns1 {
+  position: absolute;
+  top: 453px;
+  left: 183px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.bavette-child7 {
+  position: absolute;
+  top: 476px;
+  left: 140px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie15 {
+  position: absolute;
+  top: 487px;
+  left: 138px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.ermitage-du-pic-saint-loup-sai-icon1 {
+  position: absolute;
+  top: 366px;
+  left: 69px;
+  width: 57px;
+  height: 209px;
+  object-fit: cover;
+}
+.bavette-child8 {
+  position: absolute;
+  top: 714px;
+  left: 155px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 37px;
+  height: 38px;
+}
+.naturel6 {
+  position: absolute;
+  top: 724px;
+  left: 159px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.bavette {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  font-family: var(--font-bebas-neue);
+}

@@ -1,0 +1,577 @@
+.la-slection-tradevino5 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.pour-les-mafaldine {
+  margin: 0;
+}
+.la-slection-tradevino-container5 {
+  position: absolute;
+  top: 48px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 315px;
+  height: 78px;
+}
+.domaine-tatin-2020-container2 {
+  position: absolute;
+  top: 185px;
+  left: 197px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.la-commanderie5 {
+  line-height: 80.5%;
+}
+.span2 {
+  font-size: var(--font-size-xl);
+}
+.la-commanderie4,
+.reuilly3 {
+  position: absolute;
+  top: 230px;
+  left: 197px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+  font-size: var(--font-size-sm);
+}
+.reuilly3 {
+  top: 262px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.tagliatelles-child {
+  position: absolute;
+  top: 171px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.div23,
+.tagliatelles-item {
+  position: absolute;
+  top: 163px;
+  left: 145px;
+  width: 59px;
+  height: 59px;
+}
+.div23 {
+  top: 181px;
+  left: 148px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 54px;
+  height: 41px;
+}
+.div24,
+.tagliatelles-inner {
+  position: absolute;
+  top: 143px;
+  left: 175px;
+  width: 49px;
+  height: 49px;
+}
+.div24 {
+  top: 154px;
+  left: 177px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.copy-bouteille180,
+.copy-bouteille181 {
+  position: absolute;
+  top: 17.36px;
+  left: -0.21px;
+  transform: rotate(-49.74deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille181 {
+  top: 13.1px;
+  left: 3.17px;
+  transform: rotate(-41.87deg);
+}
+.copy-bouteille182,
+.copy-bouteille183,
+.copy-bouteille184 {
+  position: absolute;
+  top: 9.39px;
+  left: 7.05px;
+  transform: rotate(-34.11deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille183,
+.copy-bouteille184 {
+  top: 6.46px;
+  left: 11.2px;
+  transform: rotate(-28.16deg);
+}
+.copy-bouteille184 {
+  top: 4.46px;
+  left: 14.73px;
+  transform: rotate(-22.26deg);
+}
+.copy-bouteille185,
+.copy-bouteille186,
+.copy-bouteille187 {
+  position: absolute;
+  top: 3.04px;
+  left: 18.08px;
+  transform: rotate(-18.5deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille186,
+.copy-bouteille187 {
+  top: 1.99px;
+  left: 20.93px;
+  transform: rotate(-12.67deg);
+}
+.copy-bouteille187 {
+  top: 1.01px;
+  left: 24.85px;
+  transform: rotate(-6.83deg);
+}
+.copy-bouteille-parent18,
+.copy-bouteille188 {
+  position: absolute;
+  top: 0.44px;
+  left: 28.79px;
+  transform: rotate(-1.19deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent18 {
+  top: 152.01px;
+  left: 142.66px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(0.68deg);
+  font-size: var(--font-size-5xs);
+}
+.copy-verre30,
+.copy-verre31,
+.copy-verre32 {
+  position: absolute;
+  top: -14.93px;
+  left: 6.18px;
+  transform: rotate(83.04deg);
+  transform-origin: 0 0;
+}
+.copy-verre31,
+.copy-verre32 {
+  top: -11.09px;
+  left: 8.64px;
+  transform: rotate(88.39deg);
+}
+.copy-verre32 {
+  top: -6.75px;
+  left: 9.9px;
+  transform: rotate(92.84deg);
+}
+.copy-verre-parent4,
+.copy-verre33,
+.copy-verre34 {
+  position: absolute;
+  top: -2.95px;
+  left: 10.62px;
+  transform: rotate(92.36deg);
+  transform-origin: 0 0;
+}
+.copy-verre-parent4,
+.copy-verre34 {
+  top: 0.21px;
+  left: 10.87pxpx;
+  transform: rotate(88.76deg);
+}
+.copy-verre-parent4 {
+  top: 148.12px;
+  left: 206px;
+  width: 12.09px;
+  height: 17.67px;
+  transform: rotate(-66.94deg);
+  font-size: var(--font-size-7xs);
+}
+.group-child39,
+.group-child40 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+  width: 133px;
+  height: 44px;
+}
+.group-child39 {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-antiquewhite);
+}
+.group-child40 {
+  top: 5px;
+  left: 0;
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+}
+.je-dcouvre15,
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 49px;
+}
+.je-dcouvre15 {
+  top: 9px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 27px;
+}
+.group-parent24,
+.vector-icon8 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-parent24 {
+  top: 293px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.vector-icon8 {
+  height: 3.32%;
+  width: 7.18%;
+  top: 8.18%;
+  right: 86.67%;
+  bottom: 88.51%;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tagliatelles-child1 {
+  position: absolute;
+  top: 238px;
+  left: 152px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 36px;
+}
+.biologique7 {
+  position: absolute;
+  top: 248px;
+  left: 152px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 16px;
+}
+.image-17-icon2 {
+  position: absolute;
+  top: 145px;
+  left: 78px;
+  border-radius: var(--br-7xl);
+  width: 64px;
+  height: 202.67px;
+  object-fit: cover;
+}
+.barouillet-20211 {
+  position: absolute;
+  top: 413.5px;
+  left: 197px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.tagliatelles-child2 {
+  position: absolute;
+  top: 402.5px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.div25,
+.tagliatelles-child3 {
+  position: absolute;
+  top: 394.5px;
+  left: 145px;
+  width: 59px;
+  height: 59px;
+}
+.div25 {
+  top: 411.5px;
+  left: 148px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 54px;
+  height: 41px;
+}
+.copy-bouteille189,
+.copy-bouteille190 {
+  position: absolute;
+  top: 17.35px;
+  left: -0.78px;
+  transform: rotate(-47.86deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille190 {
+  top: 13.2px;
+  left: 2.74px;
+  transform: rotate(-39.98deg);
+}
+.copy-bouteille191,
+.copy-bouteille192,
+.copy-bouteille193 {
+  position: absolute;
+  top: 9.62px;
+  left: 6.74px;
+  transform: rotate(-32.22deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille192,
+.copy-bouteille193 {
+  top: 6.83px;
+  left: 10.98px;
+  transform: rotate(-26.27deg);
+}
+.copy-bouteille193 {
+  top: 4.94px;
+  left: 14.58px;
+  transform: rotate(-20.38deg);
+}
+.copy-bouteille194,
+.copy-bouteille195,
+.copy-bouteille196 {
+  position: absolute;
+  top: 3.64px;
+  left: 17.97px;
+  transform: rotate(-16.61deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille195,
+.copy-bouteille196 {
+  top: 2.68px;
+  left: 20.86px;
+  transform: rotate(-10.78deg);
+}
+.copy-bouteille196 {
+  top: 1.82px;
+  left: 24.8px;
+  transform: rotate(-4.95deg);
+}
+.copy-bouteille-parent19,
+.copy-bouteille197 {
+  position: absolute;
+  top: 1.39px;
+  left: 28.76px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent19 {
+  top: 383px;
+  left: 143.06px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  font-size: var(--font-size-5xs);
+}
+.bergerac1 {
+  position: absolute;
+  top: 488.5px;
+  left: 197px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 194px;
+  height: 22px;
+}
+.group-parent25 {
+  position: absolute;
+  top: 524.5px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.tagliatelles-child4 {
+  position: absolute;
+  top: 469.5px;
+  left: 152px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 37px;
+  height: 38px;
+}
+.naturel5 {
+  position: absolute;
+  top: 479.5px;
+  left: 156px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.larcin1 {
+  position: absolute;
+  top: 468.5px;
+  left: 197px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.image-22-icon1 {
+  position: absolute;
+  top: 386.5px;
+  left: 59px;
+  border-radius: var(--br-26xl-5);
+  width: 103px;
+  height: 190px;
+  object-fit: cover;
+}
+.domaine-coulet-2021-container1 {
+  position: absolute;
+  top: 658px;
+  left: 195px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.coteaux-du-languedoc1,
+.tour-de-baulx1 {
+  position: absolute;
+  left: 196px;
+  display: inline-block;
+  width: 194px;
+}
+.tour-de-baulx1 {
+  top: 710px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 14px;
+}
+.coteaux-du-languedoc1 {
+  top: 739px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-roboto);
+  height: 22px;
+}
+.tagliatelles-child5 {
+  position: absolute;
+  top: 641px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.tagliatelles-child6 {
+  position: absolute;
+  top: 635px;
+  left: 151px;
+  width: 59px;
+  height: 59px;
+}
+.div26,
+.div27,
+.tagliatelles-child7 {
+  position: absolute;
+  top: 612px;
+  left: 182px;
+  width: 49px;
+  height: 49px;
+}
+.div26,
+.div27 {
+  top: 653px;
+  left: 158px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.div27 {
+  top: 623px;
+  left: 184px;
+  font-size: var(--font-size-base);
+}
+.copy-bouteille-parent21 {
+  position: absolute;
+  top: 624.29px;
+  left: 149.55px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-5xs);
+}
+.group-parent26 {
+  position: absolute;
+  top: 763px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.image-36-icon {
+  position: absolute;
+  top: 619px;
+  left: 74px;
+  border-radius: var(--br-19xl);
+  width: 76px;
+  height: 200px;
+  object-fit: cover;
+}
+.tagliatelles-child8 {
+  position: absolute;
+  top: 706px;
+  left: 158px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 36px;
+}
+.biologique8 {
+  position: absolute;
+  top: 716px;
+  left: 158px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 16px;
+}
+.tagliatelles {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  font-family: var(--font-bebas-neue);
+}

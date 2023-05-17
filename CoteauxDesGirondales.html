@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./CoteauxDesGirondales.module.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bebas Neue:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,200;0,600;1,300;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,300;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="coteaux-des-girondales3">
+      <div class="coteaux-des-girondales-child"></div>
+      <img class="shadow-icon25" alt="" src="./public/shadow@2x.png" />
+
+      <img
+        class="coteaux-des-girondales-item"
+        alt=""
+        src="./public/ellipse-29.svg"
+      />
+
+      <div class="coteaux-des-girondales-inner"></div>
+      <div class="retour-aux-choix25" id="retourAuxChoix">
+        Retour aux choix des vins
+      </div>
+      <div class="coteaux-des-girondales-child1"></div>
+      <div class="retour-menu25" id="retourMenuText"onclick="location.href='Accueil3.html';"style="cursor:pointer;">Retour menu</div>
+      <i class="sur-le-fruit"
+        >Sur le fruit à noyau, belle rondeur en bouche, un vin très équilibré</i
+      >
+      <i class="c25">10,5 °C</i>
+      <i class="haute-savoie3">Haute-Savoie</i>
+      <div class="coteaux-des-girondales2022-container">
+        <span class="coteaux-des-girondales2022-container1">
+          <p class="coteaux-des-girondales2022">Coteaux des girondales|2022</p>
+          <p class="cuve-ceux-dapres">Cuvée Ceux d’apres...</p>
+        </span>
+      </div>
+      <div class="coteaux-des-girondales-child2"></div>
+      <div class="biologique22">Biologique</div>
+      <img
+        class="coteaux-des-girondales-ceux-d-icon1"
+        alt=""
+        src="./public/coteauxdesgirondalesceuxdapres2020-1@2x.png"
+      />
+    </div>
+
+    <script>
+      var retourAuxChoix = document.getElementById("retourAuxChoix");
+      if (retourAuxChoix) {
+        retourAuxChoix.addEventListener("click", function (e) {
+          window.location.href = "./CordonBleu.html";
+        });
+      }
+      
+      var retourMenuText = document.getElementById("retourMenuText");
+      if (retourMenuText) {
+        retourMenuText.addEventListener("click", function (e) {
+          window.location.href = "./Accueil3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

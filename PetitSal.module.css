@@ -1,0 +1,565 @@
+.la-slection-tradevino8 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.pour-le-travers {
+  margin: 0;
+}
+.la-slection-tradevino-container8 {
+  position: absolute;
+  top: 48px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 315px;
+  height: 78px;
+}
+.manoir-de-la-container4,
+.mas-des-agrunelles-container1 {
+  position: absolute;
+  top: 190px;
+  left: 197px;
+  display: inline-block;
+  width: 194px;
+  height: 49px;
+}
+.mas-des-agrunelles-container1 {
+  top: 650px;
+  left: 195px;
+  height: 37px;
+}
+.bagatelle2,
+.saumur3,
+.terrasses-du-larzac2 {
+  position: absolute;
+  left: 193px;
+  display: inline-block;
+  width: 194px;
+}
+.bagatelle2 {
+  top: 249px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 14px;
+}
+.saumur3,
+.terrasses-du-larzac2 {
+  top: 275px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.terrasses-du-larzac2 {
+  top: 738px;
+  left: 195px;
+}
+.petit-sal-child,
+.petit-sal-inner,
+.petit-sal-item {
+  position: absolute;
+  top: 172px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.petit-sal-inner,
+.petit-sal-item {
+  top: 652px;
+}
+.petit-sal-inner {
+  top: 166px;
+  left: 151px;
+  width: 59px;
+  height: 59px;
+}
+.petit-sal-child1 {
+  position: absolute;
+  top: 143px;
+  left: 182px;
+  width: 49px;
+  height: 49px;
+}
+.petit-sal-child2 {
+  position: absolute;
+  top: 636px;
+  left: 138px;
+  width: 59px;
+  height: 59px;
+}
+.div37,
+.div38,
+.div39 {
+  position: absolute;
+  top: 184px;
+  left: 158px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.div38,
+.div39 {
+  top: 154px;
+  left: 184px;
+  font-size: var(--font-size-base);
+}
+.div39 {
+  top: 651px;
+  left: 145px;
+  font-size: var(--font-size-5xl);
+}
+.copy-bouteille279,
+.copy-bouteille280 {
+  position: absolute;
+  top: 17.35px;
+  left: -0.78px;
+  transform: rotate(-47.86deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille280 {
+  top: 13.2px;
+  left: 2.74px;
+  transform: rotate(-39.98deg);
+}
+.copy-bouteille281,
+.copy-bouteille282,
+.copy-bouteille283 {
+  position: absolute;
+  top: 9.62px;
+  left: 6.74px;
+  transform: rotate(-32.22deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille282,
+.copy-bouteille283 {
+  top: 6.83px;
+  left: 10.98px;
+  transform: rotate(-26.27deg);
+}
+.copy-bouteille283 {
+  top: 4.94px;
+  left: 14.58px;
+  transform: rotate(-20.38deg);
+}
+.copy-bouteille284,
+.copy-bouteille285,
+.copy-bouteille286 {
+  position: absolute;
+  top: 3.64px;
+  left: 17.97px;
+  transform: rotate(-16.61deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille285,
+.copy-bouteille286 {
+  top: 2.68px;
+  left: 20.86px;
+  transform: rotate(-10.78deg);
+}
+.copy-bouteille286 {
+  top: 1.82px;
+  left: 24.8px;
+  transform: rotate(-4.95deg);
+}
+.copy-bouteille-parent29,
+.copy-bouteille287 {
+  position: absolute;
+  top: 1.39px;
+  left: 28.76px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent29 {
+  top: 155.29px;
+  left: 149.55px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  font-size: var(--font-size-5xs);
+}
+.copy-verre45,
+.copy-verre46,
+.copy-verre47 {
+  position: absolute;
+  top: -14.93px;
+  left: 6.18px;
+  transform: rotate(83.04deg);
+  transform-origin: 0 0;
+}
+.copy-verre46,
+.copy-verre47 {
+  top: -11.09px;
+  left: 8.64px;
+  transform: rotate(88.39deg);
+}
+.copy-verre47 {
+  top: -6.75px;
+  left: 9.9px;
+  transform: rotate(92.84deg);
+}
+.copy-verre-parent7,
+.copy-verre48,
+.copy-verre49 {
+  position: absolute;
+  top: -2.95px;
+  left: 10.62px;
+  transform: rotate(92.36deg);
+  transform-origin: 0 0;
+}
+.copy-verre-parent7,
+.copy-verre49 {
+  top: 0.21px;
+  left: 10.87pxpx;
+  transform: rotate(88.76deg);
+}
+.copy-verre-parent7 {
+  top: 148.92px;
+  left: 212.92px;
+  width: 12.09px;
+  height: 17.67px;
+  transform: rotate(-66.94deg);
+  font-size: var(--font-size-7xs);
+}
+.copy-bouteille288,
+.copy-bouteille289 {
+  position: absolute;
+  top: 17.36px;
+  left: 0.1px;
+  transform: rotate(-50.76deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille289 {
+  top: 13.04px;
+  left: 3.41px;
+  transform: rotate(-42.89deg);
+}
+.copy-bouteille290,
+.copy-bouteille291,
+.copy-bouteille292 {
+  position: absolute;
+  top: 9.27px;
+  left: 7.21px;
+  transform: rotate(-35.13deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille291,
+.copy-bouteille292 {
+  top: 6.26px;
+  left: 11.32px;
+  transform: rotate(-29.18deg);
+}
+.copy-bouteille292 {
+  top: 4.2px;
+  left: 14.81px;
+  transform: rotate(-23.28deg);
+}
+.copy-bouteille293,
+.copy-bouteille294,
+.copy-bouteille295 {
+  position: absolute;
+  top: 2.72px;
+  left: 18.14px;
+  transform: rotate(-19.52deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille294,
+.copy-bouteille295 {
+  top: 1.61px;
+  left: 20.97px;
+  transform: rotate(-13.69deg);
+}
+.copy-bouteille295 {
+  top: 0.56px;
+  left: 24.86px;
+  transform: rotate(-7.85deg);
+}
+.copy-bouteille-parent30,
+.copy-bouteille296 {
+  position: absolute;
+  top: -0.07px;
+  left: 28.79px;
+  transform: rotate(-2.21deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent30 {
+  top: 626.19px;
+  left: 135px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(-0.34deg);
+  font-size: var(--font-size-5xs);
+}
+.group-child57,
+.group-child58 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+  width: 133px;
+  height: 44px;
+}
+.group-child57 {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-antiquewhite);
+}
+.group-child58 {
+  top: 5px;
+  left: 0;
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+}
+.je-dcouvre24,
+.rectangle-parent23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 49px;
+}
+.je-dcouvre24 {
+  top: 9px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 27px;
+}
+.group-parent33 {
+  top: 317px;
+  left: 221px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.group-parent33,
+.group-parent34,
+.vector-icon11 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-parent34 {
+  top: 766px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.vector-icon11 {
+  height: 3.32%;
+  width: 7.18%;
+  top: 8.18%;
+  right: 86.67%;
+  bottom: 88.51%;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lindigene1 {
+  position: absolute;
+  top: 704px;
+  left: 195px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.image-29-icon3 {
+  position: absolute;
+  top: 131px;
+  left: 57px;
+  border-radius: var(--br-44xl-5);
+  width: 106px;
+  height: 216px;
+  object-fit: cover;
+}
+.petit-sal-child3 {
+  position: absolute;
+  top: 242px;
+  left: 152px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie16 {
+  position: absolute;
+  top: 253px;
+  left: 150px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.vignobles-rveille-2014-container1 {
+  top: 423.2px;
+  left: 196px;
+  height: 37px;
+}
+.ctes-du-roussillon1,
+.cuve-ultra-violet1,
+.vignobles-rveille-2014-container1 {
+  position: absolute;
+  display: inline-block;
+  width: 194px;
+}
+.cuve-ultra-violet1 {
+  top: 475.2px;
+  left: 195px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 14px;
+}
+.ctes-du-roussillon1 {
+  top: 504.2px;
+  left: 196px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-roboto);
+  height: 22px;
+}
+.petit-sal-child4 {
+  position: absolute;
+  top: 407.2px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.petit-sal-child5 {
+  position: absolute;
+  top: 401.2px;
+  left: 151px;
+  width: 59px;
+  height: 59px;
+}
+.div40,
+.div41,
+.petit-sal-child6 {
+  position: absolute;
+  top: 378.2px;
+  left: 182px;
+  width: 49px;
+  height: 49px;
+}
+.div40,
+.div41 {
+  top: 419.2px;
+  left: 158px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.div41 {
+  top: 389.2px;
+  left: 184px;
+  font-size: var(--font-size-base);
+}
+.copy-bouteille-parent31,
+.copy-verre-parent8 {
+  position: absolute;
+  top: 390.49px;
+  left: 149.55px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-5xs);
+}
+.copy-verre-parent8 {
+  top: 384.12px;
+  left: 212.92px;
+  width: 12.09px;
+  height: 17.67px;
+  transform: rotate(-66.94deg);
+  font-size: var(--font-size-7xs);
+}
+.image-19-icon1 {
+  position: absolute;
+  top: 380.2px;
+  left: 78px;
+  border-radius: var(--br-13xl);
+  width: 66px;
+  height: 206.25px;
+  object-fit: cover;
+}
+.group-parent35 {
+  position: absolute;
+  top: 532.2px;
+  left: 222px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.petit-sal-child7 {
+  position: absolute;
+  top: 473.2px;
+  left: 154px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 37px;
+  height: 38px;
+}
+.naturel7 {
+  position: absolute;
+  top: 483.2px;
+  left: 158px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.mas-des-agrunelles-indigene-1-icon1 {
+  position: absolute;
+  top: 632px;
+  left: 57px;
+  width: 107px;
+  height: 192px;
+  object-fit: cover;
+}
+.petit-sal-child8 {
+  position: absolute;
+  top: 719px;
+  left: 156px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie17 {
+  position: absolute;
+  top: 730px;
+  left: 154px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.petit-sal {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  font-family: var(--font-bebas-neue);
+}

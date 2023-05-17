@@ -1,0 +1,563 @@
+.la-slection-tradevino {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.pour-le-confit {
+  margin: 0;
+}
+.la-slection-tradevino-container {
+  position: absolute;
+  top: 48px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 315px;
+  height: 78px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 3.32%;
+  width: 7.18%;
+  top: 8.18%;
+  right: 86.67%;
+  bottom: 88.51%;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.boutdzan,
+.ctes-du-rhne2,
+.domaine-mas-de-container4 {
+  position: absolute;
+  top: 174px;
+  left: 195px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.boutdzan,
+.ctes-du-rhne2 {
+  top: 230px;
+  left: 196px;
+  font-size: var(--font-size-sm);
+}
+.ctes-du-rhne2 {
+  top: 259px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.suprme-de-poulet-child {
+  position: absolute;
+  top: 165px;
+  left: 23px;
+  width: 171px;
+  height: 171px;
+}
+.div,
+.suprme-de-poulet-item {
+  position: absolute;
+  top: 157px;
+  left: 144px;
+  width: 59px;
+  height: 59px;
+}
+.div {
+  top: 174px;
+  left: 147px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 54px;
+  height: 41px;
+}
+.copy-bouteille,
+.copy-bouteille1 {
+  position: absolute;
+  top: 17.35px;
+  left: -0.78px;
+  transform: rotate(-47.86deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille1 {
+  top: 13.2px;
+  left: 2.74px;
+  transform: rotate(-39.98deg);
+}
+.copy-bouteille2,
+.copy-bouteille3,
+.copy-bouteille4 {
+  position: absolute;
+  top: 9.62px;
+  left: 6.74px;
+  transform: rotate(-32.22deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille3,
+.copy-bouteille4 {
+  top: 6.83px;
+  left: 10.98px;
+  transform: rotate(-26.27deg);
+}
+.copy-bouteille4 {
+  top: 4.94px;
+  left: 14.58px;
+  transform: rotate(-20.38deg);
+}
+.copy-bouteille5,
+.copy-bouteille6,
+.copy-bouteille7 {
+  position: absolute;
+  top: 3.64px;
+  left: 17.97px;
+  transform: rotate(-16.61deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille6,
+.copy-bouteille7 {
+  top: 2.68px;
+  left: 20.86px;
+  transform: rotate(-10.78deg);
+}
+.copy-bouteille7 {
+  top: 1.82px;
+  left: 24.8px;
+  transform: rotate(-4.95deg);
+}
+.copy-bouteille-parent,
+.copy-bouteille8 {
+  position: absolute;
+  top: 1.39px;
+  left: 28.76px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent {
+  top: 145.5px;
+  left: 142.06px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  font-size: var(--font-size-5xs);
+}
+.group-child10,
+.group-child9 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+  width: 133px;
+  height: 44px;
+}
+.group-child9 {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-antiquewhite);
+}
+.group-child10 {
+  top: 5px;
+  left: 0;
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+}
+.je-dcouvre,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 49px;
+}
+.je-dcouvre {
+  top: 9px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 27px;
+}
+.group-parent9 {
+  position: absolute;
+  top: 287px;
+  left: 221px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.suprme-de-poulet-inner {
+  position: absolute;
+  top: 230px;
+  left: 153px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie5 {
+  position: absolute;
+  top: 241px;
+  left: 151px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.image-removebg-preview-2-icon2 {
+  position: absolute;
+  top: 143px;
+  left: 78px;
+  border-radius: var(--br-7xl);
+  width: 63px;
+  height: 199.9px;
+  object-fit: cover;
+}
+.div1,
+.suprme-de-poulet-child1 {
+  position: absolute;
+  top: 136.2px;
+  left: 175px;
+  width: 49px;
+  height: 49px;
+}
+.div1 {
+  top: 147.2px;
+  left: 177px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.copy-verre,
+.copy-verre1,
+.copy-verre2 {
+  position: absolute;
+  top: -14.93px;
+  left: 6.18px;
+  transform: rotate(83.04deg);
+  transform-origin: 0 0;
+}
+.copy-verre1,
+.copy-verre2 {
+  top: -11.09px;
+  left: 8.64px;
+  transform: rotate(88.39deg);
+}
+.copy-verre2 {
+  top: -6.75px;
+  left: 9.9px;
+  transform: rotate(92.84deg);
+}
+.copy-verre-parent,
+.copy-verre3,
+.copy-verre4 {
+  position: absolute;
+  top: -2.95px;
+  left: 10.62px;
+  transform: rotate(92.36deg);
+  transform-origin: 0 0;
+}
+.copy-verre-parent,
+.copy-verre4 {
+  top: 0.21px;
+  left: 10.87pxpx;
+  transform: rotate(88.76deg);
+}
+.copy-verre-parent {
+  top: 142.12px;
+  left: 205.92px;
+  width: 12.09px;
+  height: 17.67px;
+  transform: rotate(-66.94deg);
+  font-size: var(--font-size-7xs);
+}
+.vignobles-rveille-2014-container {
+  top: 418px;
+  left: 192px;
+  height: 37px;
+}
+.ctes-du-roussillon,
+.cuve-ultra-violet,
+.vignobles-rveille-2014-container {
+  position: absolute;
+  display: inline-block;
+  width: 194px;
+}
+.cuve-ultra-violet {
+  top: 470px;
+  left: 191px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 14px;
+}
+.ctes-du-roussillon {
+  top: 499px;
+  left: 192px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-roboto);
+  height: 22px;
+}
+.suprme-de-poulet-child2 {
+  position: absolute;
+  top: 402px;
+  left: 20px;
+  width: 171px;
+  height: 171px;
+}
+.suprme-de-poulet-child3 {
+  position: absolute;
+  top: 396px;
+  left: 147px;
+  width: 59px;
+  height: 59px;
+}
+.div2,
+.div3,
+.suprme-de-poulet-child4 {
+  position: absolute;
+  top: 373px;
+  left: 178px;
+  width: 49px;
+  height: 49px;
+}
+.div2,
+.div3 {
+  top: 414px;
+  left: 154px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.div3 {
+  top: 384px;
+  left: 180px;
+  font-size: var(--font-size-base);
+}
+.copy-bouteille-container {
+  position: absolute;
+  top: 385.29px;
+  left: 145.55px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-5xs);
+}
+.image-19-icon {
+  position: absolute;
+  top: 375px;
+  left: 74px;
+  border-radius: var(--br-13xl);
+  width: 66px;
+  height: 206.25px;
+  object-fit: cover;
+}
+.group-parent10 {
+  position: absolute;
+  top: 527px;
+  left: 218px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.suprme-de-poulet-child5 {
+  position: absolute;
+  top: 468px;
+  left: 150px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 37px;
+  height: 38px;
+}
+.naturel {
+  position: absolute;
+  top: 478px;
+  left: 154px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.suprme-de-poulet-child6 {
+  position: absolute;
+  top: 645px;
+  left: 27px;
+  width: 171px;
+  height: 171px;
+}
+.div4,
+.suprme-de-poulet-child7 {
+  position: absolute;
+  top: 629px;
+  left: 141px;
+  width: 59px;
+  height: 59px;
+}
+.div4 {
+  top: 644px;
+  left: 148px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.copy-bouteille27,
+.copy-bouteille28 {
+  position: absolute;
+  top: 17.36px;
+  left: 0.1px;
+  transform: rotate(-50.76deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille28 {
+  top: 13.04px;
+  left: 3.41px;
+  transform: rotate(-42.89deg);
+}
+.copy-bouteille29,
+.copy-bouteille30,
+.copy-bouteille31 {
+  position: absolute;
+  top: 9.27px;
+  left: 7.21px;
+  transform: rotate(-35.13deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille30,
+.copy-bouteille31 {
+  top: 6.26px;
+  left: 11.32px;
+  transform: rotate(-29.18deg);
+}
+.copy-bouteille31 {
+  top: 4.2px;
+  left: 14.81px;
+  transform: rotate(-23.28deg);
+}
+.copy-bouteille32,
+.copy-bouteille33,
+.copy-bouteille34 {
+  position: absolute;
+  top: 2.72px;
+  left: 18.14px;
+  transform: rotate(-19.52deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille33,
+.copy-bouteille34 {
+  top: 1.61px;
+  left: 20.97px;
+  transform: rotate(-13.69deg);
+}
+.copy-bouteille34 {
+  top: 0.56px;
+  left: 24.86px;
+  transform: rotate(-7.85deg);
+}
+.copy-bouteille-parent1,
+.copy-bouteille35 {
+  position: absolute;
+  top: -0.07px;
+  left: 28.79px;
+  transform: rotate(-2.21deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent1 {
+  top: 619.19px;
+  left: 138px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(-0.34deg);
+  font-size: var(--font-size-5xs);
+}
+.group-parent11 {
+  position: absolute;
+  top: 767px;
+  left: 226px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.image-37-icon {
+  position: absolute;
+  top: 596px;
+  left: 57px;
+  border-radius: var(--br-181xl);
+  width: 112px;
+  height: 224px;
+  object-fit: cover;
+}
+.ferme-des-7-container {
+  top: 660px;
+  height: 37px;
+}
+.ferme-des-7-container,
+.halo-sur-le,
+.saint-joseph {
+  position: absolute;
+  left: 200px;
+  display: inline-block;
+  width: 194px;
+}
+.halo-sur-le {
+  top: 714px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 37px;
+}
+.saint-joseph {
+  top: 737px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.suprme-de-poulet-child8 {
+  position: absolute;
+  top: 714px;
+  left: 155px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 37px;
+  height: 38px;
+}
+.naturel1 {
+  position: absolute;
+  top: 724px;
+  left: 159px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.suprme-de-poulet {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  font-family: var(--font-bebas-neue);
+}

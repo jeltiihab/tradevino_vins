@@ -1,0 +1,581 @@
+.pour-le-parmentier {
+  margin: 0;
+}
+.la-slection-tradevino-container3 {
+  position: absolute;
+  top: 48px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 315px;
+  height: 78px;
+}
+.domaine-heritage-du {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.domaine-combel-la-container,
+.domaine-heritage-du-container,
+.languedoc {
+  position: absolute;
+  top: 651px;
+  left: 195px;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.domaine-combel-la-container,
+.languedoc {
+  top: 423px;
+  left: 197px;
+}
+.languedoc {
+  top: 742px;
+  left: 195px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.parmentier-child,
+.parmentier-item {
+  position: absolute;
+  top: 412px;
+  left: 24px;
+  width: 171px;
+  height: 171px;
+}
+.parmentier-item {
+  top: 652px;
+}
+.div14,
+.div15,
+.parmentier-child1,
+.parmentier-inner {
+  position: absolute;
+  top: 404px;
+  left: 145px;
+  width: 59px;
+  height: 59px;
+}
+.div14,
+.div15,
+.parmentier-child1 {
+  top: 636px;
+  left: 138px;
+}
+.div14,
+.div15 {
+  top: 421px;
+  left: 148px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 54px;
+  height: 41px;
+}
+.div15 {
+  top: 651px;
+  left: 145px;
+  font-size: var(--font-size-5xl);
+  width: 46px;
+}
+.copy-bouteille108,
+.copy-bouteille109 {
+  position: absolute;
+  top: 17.35px;
+  left: -0.78px;
+  transform: rotate(-47.86deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille109 {
+  top: 13.2px;
+  left: 2.74px;
+  transform: rotate(-39.98deg);
+}
+.copy-bouteille110,
+.copy-bouteille111,
+.copy-bouteille112 {
+  position: absolute;
+  top: 9.62px;
+  left: 6.74px;
+  transform: rotate(-32.22deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille111,
+.copy-bouteille112 {
+  top: 6.83px;
+  left: 10.98px;
+  transform: rotate(-26.27deg);
+}
+.copy-bouteille112 {
+  top: 4.94px;
+  left: 14.58px;
+  transform: rotate(-20.38deg);
+}
+.copy-bouteille113,
+.copy-bouteille114,
+.copy-bouteille115 {
+  position: absolute;
+  top: 3.64px;
+  left: 17.97px;
+  transform: rotate(-16.61deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille114,
+.copy-bouteille115 {
+  top: 2.68px;
+  left: 20.86px;
+  transform: rotate(-10.78deg);
+}
+.copy-bouteille115 {
+  top: 1.82px;
+  left: 24.8px;
+  transform: rotate(-4.95deg);
+}
+.copy-bouteille-parent10,
+.copy-bouteille116 {
+  position: absolute;
+  top: 1.39px;
+  left: 28.76px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent10 {
+  top: 392.5px;
+  left: 143.06px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  font-size: var(--font-size-5xs);
+}
+.copy-bouteille126,
+.copy-bouteille127 {
+  position: absolute;
+  top: 17.36px;
+  left: 0.1px;
+  transform: rotate(-50.76deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille127 {
+  top: 13.04px;
+  left: 3.41px;
+  transform: rotate(-42.89deg);
+}
+.copy-bouteille128,
+.copy-bouteille129,
+.copy-bouteille130 {
+  position: absolute;
+  top: 9.27px;
+  left: 7.21px;
+  transform: rotate(-35.13deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille129,
+.copy-bouteille130 {
+  top: 6.26px;
+  left: 11.32px;
+  transform: rotate(-29.18deg);
+}
+.copy-bouteille130 {
+  top: 4.2px;
+  left: 14.81px;
+  transform: rotate(-23.28deg);
+}
+.copy-bouteille131,
+.copy-bouteille132,
+.copy-bouteille133 {
+  position: absolute;
+  top: 2.72px;
+  left: 18.14px;
+  transform: rotate(-19.52deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille132,
+.copy-bouteille133 {
+  top: 1.61px;
+  left: 20.97px;
+  transform: rotate(-13.69deg);
+}
+.copy-bouteille133 {
+  top: 0.56px;
+  left: 24.86px;
+  transform: rotate(-7.85deg);
+}
+.copy-bouteille-parent12,
+.copy-bouteille134 {
+  position: absolute;
+  top: -0.07px;
+  left: 28.79px;
+  transform: rotate(-2.21deg);
+  transform-origin: 0 0;
+}
+.copy-bouteille-parent12 {
+  top: 626.19px;
+  left: 135px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(-0.34deg);
+  font-size: var(--font-size-5xs);
+}
+.cahors {
+  position: absolute;
+  top: 498px;
+  left: 197px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 194px;
+  height: 22px;
+}
+.group-child27,
+.group-child28 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+  width: 133px;
+  height: 44px;
+}
+.group-child27 {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-antiquewhite);
+}
+.group-child28 {
+  top: 5px;
+  left: 0;
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+}
+.je-dcouvre9,
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 49px;
+}
+.je-dcouvre9 {
+  top: 9px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 124px;
+  height: 27px;
+}
+.group-parent18 {
+  top: 534px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.group-parent18,
+.group-parent19,
+.vector-icon6 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-parent19 {
+  top: 769px;
+  left: 223px;
+  width: 137px;
+  height: 49px;
+  color: var(--color-indianred);
+}
+.vector-icon6 {
+  height: 3.32%;
+  width: 7.18%;
+  top: 8.18%;
+  right: 86.67%;
+  bottom: 88.51%;
+  left: 20.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.naturel4 {
+  position: absolute;
+  top: 489px;
+  left: 156px;
+  font-size: var(--font-size-5xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 18px;
+}
+.parmentier-child2 {
+  position: absolute;
+  top: 724px;
+  left: 153px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 36px;
+}
+.biologique3 {
+  position: absolute;
+  top: 734px;
+  left: 153px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 16px;
+}
+.parmentier-child3 {
+  position: absolute;
+  top: 480px;
+  left: 153px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 36px;
+}
+.biologique4 {
+  position: absolute;
+  top: 490px;
+  left: 153px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 16px;
+}
+.carbo,
+.saint-agns {
+  position: absolute;
+  top: 478px;
+  left: 197px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  display: inline-block;
+  width: 194px;
+  height: 37px;
+}
+.saint-agns {
+  top: 701px;
+  left: 195px;
+}
+.biodynamie8 {
+  position: absolute;
+  top: 244px;
+  left: 149px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.parmentier-child4 {
+  position: absolute;
+  top: 724px;
+  left: 152px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.biodynamie9 {
+  position: absolute;
+  top: 735px;
+  left: 150px;
+  font-size: var(--font-size-7xs);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 41px;
+  height: 18px;
+}
+.bagatelle,
+.manoir-de-la-container2,
+.saumur1 {
+  position: absolute;
+  display: inline-block;
+  width: 194px;
+}
+.manoir-de-la-container2 {
+  top: 181px;
+  left: 196px;
+  height: 49px;
+}
+.bagatelle,
+.saumur1 {
+  left: 192px;
+}
+.bagatelle {
+  top: 240px;
+  font-size: var(--font-size-sm);
+  line-height: 80.5%;
+  height: 14px;
+}
+.saumur1 {
+  top: 266px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  height: 22px;
+}
+.parmentier-child5 {
+  position: absolute;
+  top: 163px;
+  left: 23px;
+  width: 171px;
+  height: 171px;
+}
+.parmentier-child6 {
+  position: absolute;
+  top: 157px;
+  left: 150px;
+  width: 59px;
+  height: 59px;
+}
+.div16,
+.div17,
+.parmentier-child7 {
+  position: absolute;
+  top: 134px;
+  left: 181px;
+  width: 49px;
+  height: 49px;
+}
+.div16,
+.div17 {
+  top: 175px;
+  left: 157px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 46px;
+  height: 41px;
+}
+.div17 {
+  top: 145px;
+  left: 183px;
+  font-size: var(--font-size-base);
+}
+.copy-bouteille-parent13 {
+  position: absolute;
+  top: 146.29px;
+  left: 148.55px;
+  width: 32.12px;
+  height: 23.73px;
+  transform: rotate(2.57deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-5xs);
+}
+.copy-verre10,
+.copy-verre11,
+.copy-verre12 {
+  position: absolute;
+  top: -14.93px;
+  left: 6.18px;
+  transform: rotate(83.04deg);
+  transform-origin: 0 0;
+}
+.copy-verre11,
+.copy-verre12 {
+  top: -11.09px;
+  left: 8.64px;
+  transform: rotate(88.39deg);
+}
+.copy-verre12 {
+  top: -6.75px;
+  left: 9.9px;
+  transform: rotate(92.84deg);
+}
+.copy-verre-container,
+.copy-verre13,
+.copy-verre14 {
+  position: absolute;
+  top: -2.95px;
+  left: 10.62px;
+  transform: rotate(92.36deg);
+  transform-origin: 0 0;
+}
+.copy-verre-container,
+.copy-verre14 {
+  top: 0.21px;
+  left: 10.87pxpx;
+  transform: rotate(88.76deg);
+}
+.copy-verre-container {
+  top: 139.92px;
+  left: 211.92px;
+  width: 12.09px;
+  height: 17.67px;
+  transform: rotate(-66.94deg);
+  font-size: var(--font-size-7xs);
+}
+.group-parent20 {
+  position: absolute;
+  top: 308px;
+  left: 220px;
+  width: 137px;
+  height: 49px;
+  cursor: pointer;
+  color: var(--color-indianred);
+}
+.image-29-icon1 {
+  position: absolute;
+  top: 122px;
+  left: 56px;
+  border-radius: var(--br-44xl-5);
+  width: 106px;
+  height: 216px;
+  object-fit: cover;
+}
+.parmentier-child8 {
+  position: absolute;
+  top: 233px;
+  left: 151px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-200);
+  width: 37px;
+  height: 37px;
+}
+.bouteille-sud-ouest-chateau-co-icon {
+  position: absolute;
+  top: 346px;
+  left: 0;
+  width: 250px;
+  height: 268px;
+  object-fit: cover;
+}
+.ermitage-du-pic-saint-loup-sai-icon {
+  position: absolute;
+  top: 614px;
+  left: 81px;
+  width: 57px;
+  height: 209px;
+  object-fit: cover;
+}
+.parmentier {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite);
+  font-family: var(--font-bebas-neue);
+}

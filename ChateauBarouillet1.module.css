@@ -1,0 +1,174 @@
+.chateau-barouillet-child3 {
+  position: absolute;
+  top: 199px;
+  left: 0;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 645px;
+}
+.shadow-icon22 {
+  position: absolute;
+  top: 100px;
+  left: 22px;
+  width: 437px;
+  height: 436px;
+  object-fit: cover;
+  display: none;
+  opacity: 0.7;
+}
+.chateau-barouillet-child4 {
+  position: absolute;
+  top: 94px;
+  left: 85px;
+  width: 219px;
+  height: 219px;
+}
+.chateau-barouillet-child5 {
+  position: absolute;
+  top: 677px;
+  left: 41px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown);
+  box-shadow: 0 4px 36px rgba(0, 0, 0, 0.25);
+  width: 313px;
+  height: 66px;
+  cursor: pointer;
+}
+.retour-aux-choix22 {
+  position: absolute;
+  top: 677px;
+  left: 42px;
+  font-size: var(--font-size-mid);
+  font-weight: 600;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 312px;
+  height: 63px;
+}
+.chateau-barouillet-child6 {
+  position: absolute;
+  top: 769px;
+  left: 126px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-antiquewhite);
+  width: 130px;
+  height: 43px;
+}
+.retour-menu22 {
+  position: absolute;
+  top: 769px;
+  left: 135px;
+  font-weight: 600;
+  color: var(--color-brown);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 43px;
+  cursor: pointer;
+}
+.rond-ample-et1 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.blank-line12 {
+  margin: 0;
+}
+.rond-ample-et-container1 {
+  position: absolute;
+  top: 462px;
+  left: 42px;
+  line-height: 86.1%;
+  display: inline-block;
+  width: 314px;
+  height: 49px;
+}
+.c22,
+.cuve-larcin1,
+.rond-ample-et-container1 {
+  font-size: var(--font-size-xl);
+}
+.c22 {
+  position: absolute;
+  top: 532px;
+  left: 42px;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  width: 314px;
+  height: 49px;
+}
+.cuve-larcin1 {
+  margin: 0;
+}
+.domaine-barouillet2019-cuve-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.domaine-barouillet2019-cuve-container2 {
+  position: absolute;
+  top: 332px;
+  left: 4px;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-brown);
+  display: flex;
+  align-items: center;
+  width: 390px;
+  height: 83px;
+  font-size: var(--font-size-13xl);
+}
+.bergerac3 {
+  position: absolute;
+  top: 410px;
+  left: 43px;
+  line-height: 86.1%;
+  display: inline-block;
+  font-weight: 300;
+  width: 314px;
+  height: 47px;
+}
+.chateau-barouillet-child7 {
+  position: absolute;
+  top: 167px;
+  left: 239px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--color-forestgreen-100);
+  width: 63px;
+  height: 63px;
+}
+.naturel13 {
+  position: absolute;
+  top: 184px;
+  left: 245px;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 29px;
+}
+.image-21-icon1 {
+  position: absolute;
+  top: 63px;
+  left: 127px;
+  border-radius: var(--br-50xl-5);
+  width: 139px;
+  height: 256px;
+  object-fit: cover;
+}
+.chateau-barouillet1 {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

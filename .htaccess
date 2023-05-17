@@ -1,0 +1,16 @@
+# Disable directory listing
+Options -Indexes
+
+# Set default index file
+DirectoryIndex index.html index.php
+
+# Rewrite rules
+RewriteEngine On
+
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+
+# Redirect non-https to https
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
