@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/jeltiihab/tradevino_vins.git",
   "author": "jeltiihab <ihab.jelti@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.0.1"
+  }
 }
